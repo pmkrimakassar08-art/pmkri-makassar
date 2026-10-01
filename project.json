@@ -1,0 +1,21 @@
+{
+  "overview": "Website profil resmi PMKRI Makassar (Sanctus Albertus Magnus) dengan latar merah marun, berisi beranda, profil organisasi, galeri kegiatan, dan kontak.",
+  "features": [
+    "Beranda dengan foto grup PMKRI Makassar sebagai latar",
+    "Navigasi empat menu: Beranda, Tentang Kami, Kontak, Galeri",
+    "Profil organisasi: sejarah, visi, misi, dan kepengurusan",
+    "Galeri foto kegiatan dengan tampilan besar",
+    "Formulir kontak dan informasi sekretariat",
+    "Tampilan responsif di ponsel dan desktop"
+  ],
+  "category": "organization-profile-website",
+  "tags": [
+    "pmkri",
+    "makassar",
+    "organisasi",
+    "profil",
+    "galeri",
+    "kontak"
+  ],
+  "last_updated": "2026-10-01T05:14:45.304Z"
+}
